@@ -43,8 +43,8 @@
 
 ### 📊 آمار گیت‌هاب
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rita00st&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rita00st&layout=compact&theme=radical" />width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rita00st&show_icons=true&theme=radical" alt="آمار گیت‌هاب" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rita00st&layout=compact&theme=radical" alt="زبان‌های پرکاربرد" width="48%" />
 </p>
 
 ---
